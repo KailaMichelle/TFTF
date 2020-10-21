@@ -1,7 +1,7 @@
-# CampHumor: User Stories
+# CampHumor
 
 **Elevator Pitch:** <br/>
-Comedy Podcast Company. Collaboration between UX/UI Designers and Software Engineers. Two Days to Complete Project. 
+Comedy Podcast Company. Collaboration between 2 UX/UI Designers and 4 Software Engineers from General Assembly. Two Days to Complete Project. 
 
 ---
 
