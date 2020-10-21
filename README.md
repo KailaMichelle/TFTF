@@ -30,7 +30,7 @@ Comedy Podcast Company. Collaboration between 2 UX/UI Designers and 4 Software E
 <img src="./public/images/color_palette.png">
 
 
-## Technologies - Dependencies
+## Technologies 
 
 Express <br/>
 Mongoose <br/>
