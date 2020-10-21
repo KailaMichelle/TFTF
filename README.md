@@ -23,11 +23,11 @@ Comedy Podcast Company. Collaboration between 2 UX/UI Designers and 4 Software E
 
 ## Wireframes
 
-<img src="./public/images/Wireframe.png">
+<img src="./public/images/Wireframe.png" alt="wireframe" width="200"/>
 
-<img src="./public/images/Wireframe2.png">
+<img src="./public/images/Wireframe2.png" alt="wireframe" width="200"/>
 
-<img src="./public/images/color_palette.png">
+<img src="./public/images/color_palette.png" alt="color palette" width="200"/>
 
 
 ## Technologies 
