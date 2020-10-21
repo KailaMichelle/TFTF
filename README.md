@@ -23,11 +23,11 @@ Comedy Podcast Company. Collaboration between UX/UI Designers and Software Engin
 
 ## Wireframes
 
-<img src="./public.images/Wireframe.png">
+<img src="./public/images/Wireframe.png">
 
-<img src="./public.images/Wireframe2.png">
+<img src="./public/images/Wireframe2.png">
 
-<img src="./public.images/color_palette.png">
+<img src="./public/images/color_palette.png">
 
 
 ## Technologies - Dependencies
